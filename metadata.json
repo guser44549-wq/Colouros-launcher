@@ -1,0 +1,6 @@
+{
+  "name": "ColorOS Launcher",
+  "description": "Fluid Aquamorphic ColorOS 15 style launcher with smart folders, widget shelf, sidebar panel, and fluid animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

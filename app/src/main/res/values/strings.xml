@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorOS Launcher</string>
+    <string name="shelf_title">ColorOS Shelf</string>
+    <string name="drawer_search_placeholder">Search apps, files, settings…</string>
+    <string name="edit_home_title">Home Screen Settings</string>
+    <string name="smart_sidebar">Smart Sidebar</string>
+    <string name="smart_folder">Smart Folder</string>
+</resources>
